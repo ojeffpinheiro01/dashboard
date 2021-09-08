@@ -59,7 +59,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 # :earth_americas: Implantação em produção
 ### Back-end: <br />
-### Front-end WEB: <br />
+### Front-end WEB: [Netlify](https://amazon-jeff.netlify.app)<br />
 
 # :fire: Como usar
 ## :white_flag: Condições prévias
